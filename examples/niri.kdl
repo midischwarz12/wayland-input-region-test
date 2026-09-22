@@ -1,0 +1,8 @@
+window-rule {
+    match app-id="^wayland-input-region-test$"
+    open-floating true
+    draw-border-with-background false
+    border { off; }
+    focus-ring { off; }
+    shadow { off; }
+}
